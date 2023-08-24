@@ -1,1 +1,2 @@
-# How Developers Implement Property-Based Tests [Replication Package]
+# How Developers Implement Property-Based Tests
+[Replication Package]
