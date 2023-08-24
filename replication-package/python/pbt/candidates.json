@@ -1,0 +1,20 @@
+{
+    "all_public_dependent_repos": [
+        {
+            "name": "Qiskit/qiskit-terra",
+            "stars": 3597
+        },
+        {
+            "name": "nylas/sync-engine",
+            "stars": 3513
+        },
+        {
+            "name": "bear/python-twitter",
+            "stars": 3388
+        },
+        {
+            "name": "ClusterHQ/flocker",
+            "stars": 3366
+        }
+    ]
+}

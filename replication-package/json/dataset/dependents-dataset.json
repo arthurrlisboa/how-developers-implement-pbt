@@ -1,0 +1,182 @@
+[
+    {
+        "_Dependent__name": "pytorch/pytorch",
+        "_Dependent__stars": 66859,
+        "_Dependent__pbt_file_path": "pytorch\\caffe2\\contrib\\aten\\aten_test.py",
+        "_Dependent__url": "https://github.com/pytorch/pytorch"
+    },
+    {
+        "_Dependent__name": "commaai/openpilot",
+        "_Dependent__stars": 39369,
+        "_Dependent__pbt_file_path": "openpilot\\selfdrive\\test\\process_replay\\test_fuzzy.py",
+        "_Dependent__url": "https://github.com/commaai/openpilot"
+    },
+    {
+        "_Dependent__name": "pandas-dev/pandas",
+        "_Dependent__stars": 38368,
+        "_Dependent__pbt_file_path": "pandas\\pandas\\tests\\frame\\indexing\\test_where.py",
+        "_Dependent__url": "https://github.com/pandas-dev/pandas"
+    },
+    {
+        "_Dependent__name": "explosion/spaCy",
+        "_Dependent__stars": 26133,
+        "_Dependent__pbt_file_path": "spaCy\\spacy\\tests\\pipeline\\test_edit_tree_lemmatizer.py",
+        "_Dependent__url": "https://github.com/explosion/spaCy"
+    },
+    {
+        "_Dependent__name": "streamlit/streamlit",
+        "_Dependent__stars": 24697,
+        "_Dependent__pbt_file_path": "streamlit\\lib\\tests\\streamlit\\runtime\\state\\session_state_test.py",
+        "_Dependent__url": "https://github.com/streamlit/streamlit"
+    },
+    {
+        "_Dependent__name": "numpy/numpy",
+        "_Dependent__stars": 23521,
+        "_Dependent__pbt_file_path": "numpy\\numpy\\array_api\\tests\\test_set_functions.py",
+        "_Dependent__url": "https://github.com/numpy/numpy"
+    },
+    {
+        "_Dependent__name": "PaddlePaddle/Paddle",
+        "_Dependent__stars": 20249,
+        "_Dependent__pbt_file_path": "Paddle\\test\\ir\\inference\\auto_scan_test.py",
+        "_Dependent__url": "https://github.com/PaddlePaddle/Paddle"
+    },
+    {
+        "_Dependent__name": "pola-rs/polars",
+        "_Dependent__stars": 17147,
+        "_Dependent__pbt_file_path": "py-polars\\polars\\testing\\parametric\\primitives.py",
+        "_Dependent__url": "https://github.com/pola-rs/polars"
+    },
+    {
+        "_Dependent__name": "unifyai/ivy",
+        "_Dependent__stars": 10686,
+        "_Dependent__pbt_file_path": "ivy\\ivy_tests\\test_ivy\\helpers\\hypothesis_helpers\\array_helpers.py",
+        "_Dependent__url": "https://github.com/unifyai/ivy"
+    },
+    {
+        "_Dependent__name": "pyodide/pyodide",
+        "_Dependent__stars": 10043,
+        "_Dependent__pbt_file_path": "pyodide\\packages\\cryptography\\test_cryptography.py",
+        "_Dependent__url": "https://github.com/pyodide/pyodide"
+    },
+    {
+        "_Dependent__name": "aws/chalice",
+        "_Dependent__stars": 9728,
+        "_Dependent__pbt_file_path": "chalice\\tests\\unit\\test_app.py",
+        "_Dependent__url": "https://github.com/aws/chalice"
+    },
+    {
+        "_Dependent__name": "qutebrowser/qutebrowser",
+        "_Dependent__stars": 8632,
+        "_Dependent__pbt_file_path": "qutebrowser\\tests\\unit\\browser\\webkit\\http\\test_http.py",
+        "_Dependent__url": "https://github.com/qutebrowser/qutebrowser"
+    },
+    {
+        "_Dependent__name": "squeaky-pl/japronto",
+        "_Dependent__stars": 8611,
+        "_Dependent__pbt_file_path": "japronto\\integration_tests\\test_perror.py",
+        "_Dependent__url": "https://github.com/squeaky-pl/japronto"
+    },
+    {
+        "_Dependent__name": "PyO3/pyo3",
+        "_Dependent__stars": 8440,
+        "_Dependent__pbt_file_path": "pyo3\\pytests\\tests\\test_datetime.py",
+        "_Dependent__url": "https://github.com/PyO3/pyo3"
+    },
+    {
+        "_Dependent__name": "apache/beam",
+        "_Dependent__stars": 6864,
+        "_Dependent__pbt_file_path": "beam\\sdks\\python\\apache_beam\\coders\\coders_property_based_test.py",
+        "_Dependent__url": "https://github.com/apache/beam"
+    },
+    {
+        "_Dependent__name": "robinhood/faust",
+        "_Dependent__stars": 6543,
+        "_Dependent__pbt_file_path": "faust\\t\\meticulous\\assignor\\test_copartitioned_assignor.py",
+        "_Dependent__url": "https://github.com/robinhood/faust"
+    },
+    {
+        "_Dependent__name": "facebookresearch/pytext",
+        "_Dependent__stars": 6359,
+        "_Dependent__pbt_file_path": "pytext\\pytext\\exporters\\test\\text_model_exporter_test.py",
+        "_Dependent__url": "https://github.com/facebookresearch/pytext"
+    },
+    {
+        "_Dependent__name": "esphome/esphome",
+        "_Dependent__stars": 6200,
+        "_Dependent__pbt_file_path": "esphome\\tests\\unit_tests\\test_config_validation.py",
+        "_Dependent__url": "https://github.com/esphome/esphome"
+    },
+    {
+        "_Dependent__name": "sqlfluff/sqlfluff",
+        "_Dependent__stars": 6101,
+        "_Dependent__pbt_file_path": "sqlfluff\\test\\dialects\\bigquery_test.py",
+        "_Dependent__url": "https://github.com/sqlfluff/sqlfluff"
+    },
+    {
+        "_Dependent__name": "wandb/wandb",
+        "_Dependent__stars": 6055,
+        "_Dependent__pbt_file_path": "wandb\\tests\\pytest_tests\\unit_tests\\test_lib\\test_hashutil.py",
+        "_Dependent__url": "https://github.com/wandb/wandb"
+    },
+    {
+        "_Dependent__name": "cleanlab/cleanlab",
+        "_Dependent__stars": 5891,
+        "_Dependent__pbt_file_path": "cleanlab\\tests\\datalab\\test_data.py",
+        "_Dependent__url": "https://github.com/cleanlab/cleanlab"
+    },
+    {
+        "_Dependent__name": "chroma-core/chroma",
+        "_Dependent__stars": 5167,
+        "_Dependent__pbt_file_path": "chroma\\chromadb\\test\\property\\test_add.py",
+        "_Dependent__url": "https://github.com/chroma-core/chroma"
+    },
+    {
+        "_Dependent__name": "replicate/cog",
+        "_Dependent__stars": 4725,
+        "_Dependent__pbt_file_path": "cog\\python\\tests\\server\\test_worker.py",
+        "_Dependent__url": "https://github.com/replicate/cog"
+    },
+    {
+        "_Dependent__name": "vyperlang/vyper",
+        "_Dependent__stars": 4514,
+        "_Dependent__pbt_file_path": "vyper\\tests\\ast\\nodes\\test_evaluate_binop_decimal.py",
+        "_Dependent__url": "https://github.com/vyperlang/vyper"
+    },
+    {
+        "_Dependent__name": "ethereum/web3.py",
+        "_Dependent__stars": 4238,
+        "_Dependent__pbt_file_path": "web3.py\\tests\\core\\caching-utils\\test_generate_cache_key.py",
+        "_Dependent__url": "https://github.com/ethereum/web3.py"
+    },
+    {
+        "_Dependent__name": "infobyte/faraday",
+        "_Dependent__stars": 3927,
+        "_Dependent__pbt_file_path": "faraday\\tests\\test_api_hosts.py",
+        "_Dependent__url": "https://github.com/infobyte/faraday"
+    },
+    {
+        "_Dependent__name": "Qiskit/qiskit-terra",
+        "_Dependent__stars": 3597,
+        "_Dependent__pbt_file_path": "qiskit-terra\\test\\randomized\\test_clifford.py",
+        "_Dependent__url": "https://github.com/Qiskit/qiskit-terra"
+    },
+    {
+        "_Dependent__name": "nylas/sync-engine",
+        "_Dependent__stars": 3513,
+        "_Dependent__pbt_file_path": "sync-engine\\inbox\\test\\security\\test_blobstorage.py",
+        "_Dependent__url": "https://github.com/nylas/sync-engine"
+    },
+    {
+        "_Dependent__name": "bear/python-twitter",
+        "_Dependent__stars": 3388,
+        "_Dependent__pbt_file_path": "python-twitter\\tests\\test_unicode.py",
+        "_Dependent__url": "https://github.com/bear/python-twitter"
+    },
+    {
+        "_Dependent__name": "ClusterHQ/flocker",
+        "_Dependent__stars": 3366,
+        "_Dependent__pbt_file_path": "flocker\\admin\\test\\test_merge_pr.py",
+        "_Dependent__url": "https://github.com/ClusterHQ/flocker"
+    }
+]

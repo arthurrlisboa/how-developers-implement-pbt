@@ -1,0 +1,124 @@
+{
+    "all_public_dependent_repos": [
+        {
+            "name": "pytorch/pytorch",
+            "stars": 66859
+        },
+        {
+            "name": "commaai/openpilot",
+            "stars": 39369
+        },
+        {
+            "name": "pandas-dev/pandas",
+            "stars": 38368
+        },
+        {
+            "name": "explosion/spaCy",
+            "stars": 26133
+        },
+        {
+            "name": "streamlit/streamlit",
+            "stars": 24697
+        },
+        {
+            "name": "numpy/numpy",
+            "stars": 23521
+        },
+        {
+            "name": "PaddlePaddle/Paddle",
+            "stars": 20249
+        },
+        {
+            "name": "pola-rs/polars",
+            "stars": 17147
+        },
+        {
+            "name": "unifyai/ivy",
+            "stars": 10686
+        },
+        {
+            "name": "pyodide/pyodide",
+            "stars": 10043
+        },
+        {
+            "name": "aws/chalice",
+            "stars": 9728
+        },
+        {
+            "name": "qutebrowser/qutebrowser",
+            "stars": 8632
+        },
+        {
+            "name": "squeaky-pl/japronto",
+            "stars": 8611
+        },
+        {
+            "name": "PyO3/pyo3",
+            "stars": 8440
+        },
+        {
+            "name": "apache/beam",
+            "stars": 6864
+        },
+        {
+            "name": "robinhood/faust",
+            "stars": 6543
+        },
+        {
+            "name": "facebookresearch/pytext",
+            "stars": 6359
+        },
+        {
+            "name": "esphome/esphome",
+            "stars": 6200
+        },
+        {
+            "name": "sqlfluff/sqlfluff",
+            "stars": 6101
+        },
+        {
+            "name": "wandb/wandb",
+            "stars": 6055
+        },
+        {
+            "name": "cleanlab/cleanlab",
+            "stars": 5891
+        },
+        {
+            "name": "chroma-core/chroma",
+            "stars": 5167
+        },
+        {
+            "name": "replicate/cog",
+            "stars": 4725
+        },
+        {
+            "name": "vyperlang/vyper",
+            "stars": 4514
+        },
+        {
+            "name": "ethereum/web3.py",
+            "stars": 4238
+        },
+        {
+            "name": "infobyte/faraday",
+            "stars": 3927
+        },
+        {
+            "name": "Qiskit/qiskit-terra",
+            "stars": 3597
+        },
+        {
+            "name": "nylas/sync-engine",
+            "stars": 3513
+        },
+        {
+            "name": "bear/python-twitter",
+            "stars": 3388
+        },
+        {
+            "name": "ClusterHQ/flocker",
+            "stars": 3366
+        }
+    ]
+}

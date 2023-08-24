@@ -1,0 +1,3019 @@
+{
+    "all_public_dependent_repos": [
+        {
+            "name": "huggingface/transformers",
+            "stars": 100067
+        },
+        {
+            "name": "pytorch/pytorch",
+            "stars": 66859
+        },
+        {
+            "name": "commaai/openpilot",
+            "stars": 39369
+        },
+        {
+            "name": "pandas-dev/pandas",
+            "stars": 38368
+        },
+        {
+            "name": "explosion/spaCy",
+            "stars": 26133
+        },
+        {
+            "name": "streamlit/streamlit",
+            "stars": 24697
+        },
+        {
+            "name": "google/python-fire",
+            "stars": 24534
+        },
+        {
+            "name": "numpy/numpy",
+            "stars": 23521
+        },
+        {
+            "name": "servo/servo",
+            "stars": 23035
+        },
+        {
+            "name": "PaddlePaddle/Paddle",
+            "stars": 20249
+        },
+        {
+            "name": "pola-rs/polars",
+            "stars": 17147
+        },
+        {
+            "name": "apache/arrow",
+            "stars": 11715
+        },
+        {
+            "name": "apple/turicreate",
+            "stars": 11023
+        },
+        {
+            "name": "unifyai/ivy",
+            "stars": 10686
+        },
+        {
+            "name": "airbytehq/airbyte",
+            "stars": 10594
+        },
+        {
+            "name": "qdrant/qdrant",
+            "stars": 10060
+        },
+        {
+            "name": "pyodide/pyodide",
+            "stars": 10043
+        },
+        {
+            "name": "aws/chalice",
+            "stars": 9728
+        },
+        {
+            "name": "twitter/the-algorithm-ml",
+            "stars": 9439
+        },
+        {
+            "name": "qutebrowser/qutebrowser",
+            "stars": 8632
+        },
+        {
+            "name": "squeaky-pl/japronto",
+            "stars": 8611
+        },
+        {
+            "name": "PyO3/pyo3",
+            "stars": 8440
+        },
+        {
+            "name": "apache/beam",
+            "stars": 6864
+        },
+        {
+            "name": "HypothesisWorks/hypothesis",
+            "stars": 6702
+        },
+        {
+            "name": "PaddlePaddle/Paddle-Lite",
+            "stars": 6547
+        },
+        {
+            "name": "robinhood/faust",
+            "stars": 6543
+        },
+        {
+            "name": "facebookresearch/pytext",
+            "stars": 6359
+        },
+        {
+            "name": "esphome/esphome",
+            "stars": 6200
+        },
+        {
+            "name": "WebKit/WebKit",
+            "stars": 6162
+        },
+        {
+            "name": "sqlfluff/sqlfluff",
+            "stars": 6101
+        },
+        {
+            "name": "wandb/wandb",
+            "stars": 6055
+        },
+        {
+            "name": "cleanlab/cleanlab",
+            "stars": 5891
+        },
+        {
+            "name": "telepresenceio/telepresence",
+            "stars": 5817
+        },
+        {
+            "name": "PyCQA/isort",
+            "stars": 5798
+        },
+        {
+            "name": "apache/couchdb",
+            "stars": 5684
+        },
+        {
+            "name": "jarun/buku",
+            "stars": 5665
+        },
+        {
+            "name": "pyca/cryptography",
+            "stars": 5536
+        },
+        {
+            "name": "conda/conda",
+            "stars": 5442
+        },
+        {
+            "name": "chroma-core/chroma",
+            "stars": 5167
+        },
+        {
+            "name": "replicate/cog",
+            "stars": 4725
+        },
+        {
+            "name": "pixie-io/pixie",
+            "stars": 4561
+        },
+        {
+            "name": "ijl/orjson",
+            "stars": 4560
+        },
+        {
+            "name": "vyperlang/vyper",
+            "stars": 4514
+        },
+        {
+            "name": "web-platform-tests/wpt",
+            "stars": 4333
+        },
+        {
+            "name": "ethereum/web3.py",
+            "stars": 4238
+        },
+        {
+            "name": "infobyte/faraday",
+            "stars": 3927
+        },
+        {
+            "name": "Netflix/dispatch",
+            "stars": 3902
+        },
+        {
+            "name": "deepmind/open_spiel",
+            "stars": 3659
+        },
+        {
+            "name": "Qiskit/qiskit-terra",
+            "stars": 3597
+        },
+        {
+            "name": "nylas/sync-engine",
+            "stars": 3513
+        },
+        {
+            "name": "freedomofpress/securedrop",
+            "stars": 3433
+        },
+        {
+            "name": "bear/python-twitter",
+            "stars": 3388
+        },
+        {
+            "name": "ClusterHQ/flocker",
+            "stars": 3366
+        },
+        {
+            "name": "rocky/python-uncompyle6",
+            "stars": 3134
+        },
+        {
+            "name": "zenml-io/zenml",
+            "stars": 2860
+        },
+        {
+            "name": "mozilla/gecko-dev",
+            "stars": 2807
+        },
+        {
+            "name": "dry-python/returns",
+            "stars": 2744
+        },
+        {
+            "name": "explosion/thinc",
+            "stars": 2717
+        },
+        {
+            "name": "hypothesis/h",
+            "stars": 2703
+        },
+        {
+            "name": "ibis-project/ibis",
+            "stars": 2701
+        },
+        {
+            "name": "TeamHG-Memex/eli5",
+            "stars": 2666
+        },
+        {
+            "name": "celery/kombu",
+            "stars": 2533
+        },
+        {
+            "name": "liiight/notifiers",
+            "stars": 2443
+        },
+        {
+            "name": "eth-brownie/brownie",
+            "stars": 2439
+        },
+        {
+            "name": "unionai-oss/pandera",
+            "stars": 2322
+        },
+        {
+            "name": "wemake-services/wemake-python-styleguide",
+            "stars": 2215
+        },
+        {
+            "name": "pimutils/khal",
+            "stars": 2202
+        },
+        {
+            "name": "litestar-org/litestar",
+            "stars": 2139
+        },
+        {
+            "name": "dateutil/dateutil",
+            "stars": 2056
+        },
+        {
+            "name": "WZBSocialScienceCenter/pdftabextract",
+            "stars": 2055
+        },
+        {
+            "name": "ethereum/py-evm",
+            "stars": 1981
+        },
+        {
+            "name": "rasterio/rasterio",
+            "stars": 1953
+        },
+        {
+            "name": "google-research/kubric",
+            "stars": 1869
+        },
+        {
+            "name": "raiden-network/raiden",
+            "stars": 1860
+        },
+        {
+            "name": "pallets/quart",
+            "stars": 1853
+        },
+        {
+            "name": "tobgu/pyrsistent",
+            "stars": 1853
+        },
+        {
+            "name": "jmespath/jmespath.py",
+            "stars": 1805
+        },
+        {
+            "name": "pyvista/pyvista",
+            "stars": 1789
+        },
+        {
+            "name": "pikepdf/pikepdf",
+            "stars": 1739
+        },
+        {
+            "name": "facebookresearch/habitat-sim",
+            "stars": 1738
+        },
+        {
+            "name": "wemake-services/wemake-django-template",
+            "stars": 1725
+        },
+        {
+            "name": "schemathesis/schemathesis",
+            "stars": 1697
+        },
+        {
+            "name": "alldatacenter/alldata",
+            "stars": 1656
+        },
+        {
+            "name": "Yelp/paasta",
+            "stars": 1651
+        },
+        {
+            "name": "VertaAI/modeldb",
+            "stars": 1588
+        },
+        {
+            "name": "winpython/winpython",
+            "stars": 1576
+        },
+        {
+            "name": "getsentry/sentry-python",
+            "stars": 1533
+        },
+        {
+            "name": "redballoonsecurity/ofrak",
+            "stars": 1532
+        },
+        {
+            "name": "mitmproxy/pdoc",
+            "stars": 1532
+        },
+        {
+            "name": "nubank/fklearn",
+            "stars": 1442
+        },
+        {
+            "name": "pytorch/torchrec",
+            "stars": 1428
+        },
+        {
+            "name": "cgarciae/pypeln",
+            "stars": 1413
+        },
+        {
+            "name": "tableau/TabPy",
+            "stars": 1404
+        },
+        {
+            "name": "pytorch/opacus",
+            "stars": 1399
+        },
+        {
+            "name": "gaphor/gaphor",
+            "stars": 1392
+        },
+        {
+            "name": "someengineering/resoto",
+            "stars": 1378
+        },
+        {
+            "name": "explosion/spacy-models",
+            "stars": 1324
+        },
+        {
+            "name": "pimutils/vdirsyncer",
+            "stars": 1285
+        },
+        {
+            "name": "quodlibet/mutagen",
+            "stars": 1253
+        },
+        {
+            "name": "datapane/datapane",
+            "stars": 1207
+        },
+        {
+            "name": "google/brain-tokyo-workshop",
+            "stars": 1193
+        },
+        {
+            "name": "minitorch/minitorch",
+            "stars": 1168
+        },
+        {
+            "name": "weaveworks/kubediff",
+            "stars": 1163
+        },
+        {
+            "name": "pyjanitor-devs/pyjanitor",
+            "stars": 1141
+        },
+        {
+            "name": "lidatong/dataclasses-json",
+            "stars": 1123
+        },
+        {
+            "name": "BitBotFactory/MikaLendingBot",
+            "stars": 1097
+        },
+        {
+            "name": "tlaplus/Examples",
+            "stars": 1079
+        },
+        {
+            "name": "harvardnlp/pytorch-struct",
+            "stars": 1073
+        },
+        {
+            "name": "se2p/pynguin",
+            "stars": 1072
+        },
+        {
+            "name": "trezor/trezor-firmware",
+            "stars": 1040
+        },
+        {
+            "name": "HXSecurity/DongTai",
+            "stars": 1033
+        },
+        {
+            "name": "srush/Tensor-Puzzles",
+            "stars": 1032
+        },
+        {
+            "name": "MDAnalysis/mdanalysis",
+            "stars": 1029
+        },
+        {
+            "name": "faust-streaming/faust",
+            "stars": 1028
+        },
+        {
+            "name": "Checkmk/checkmk",
+            "stars": 1026
+        },
+        {
+            "name": "machow/siuba",
+            "stars": 1023
+        },
+        {
+            "name": "sentinel-hub/eo-learn",
+            "stars": 996
+        },
+        {
+            "name": "Beomi/KoAlpaca",
+            "stars": 988
+        },
+        {
+            "name": "hedyorg/hedy",
+            "stars": 979
+        },
+        {
+            "name": "Mesa3D/mesa",
+            "stars": 979
+        },
+        {
+            "name": "pytries/marisa-trie",
+            "stars": 974
+        },
+        {
+            "name": "pyca/pynacl",
+            "stars": 966
+        },
+        {
+            "name": "demisto/content",
+            "stars": 948
+        },
+        {
+            "name": "pytorch/FBGEMM",
+            "stars": 937
+        },
+        {
+            "name": "timothycrosley/streamdeck-ui",
+            "stars": 916
+        },
+        {
+            "name": "pydantic/pydantic-core",
+            "stars": 913
+        },
+        {
+            "name": "whitesmith/hawkpost",
+            "stars": 911
+        },
+        {
+            "name": "emalderson/ThePhish",
+            "stars": 880
+        },
+        {
+            "name": "pschanely/CrossHair",
+            "stars": 866
+        },
+        {
+            "name": "python-escpos/python-escpos",
+            "stars": 858
+        },
+        {
+            "name": "Xilinx/brevitas",
+            "stars": 845
+        },
+        {
+            "name": "rocky/python-decompile3",
+            "stars": 838
+        },
+        {
+            "name": "timothycrosley/portray",
+            "stars": 837
+        },
+        {
+            "name": "tlsfuzzer/python-ecdsa",
+            "stars": 827
+        },
+        {
+            "name": "sec-edgar/sec-edgar",
+            "stars": 823
+        },
+        {
+            "name": "eliasdabbas/advertools",
+            "stars": 823
+        },
+        {
+            "name": "pycco-docs/pycco",
+            "stars": 822
+        },
+        {
+            "name": "twisted/klein",
+            "stars": 813
+        },
+        {
+            "name": "intel/intel-extension-for-pytorch",
+            "stars": 776
+        },
+        {
+            "name": "baal-org/baal",
+            "stars": 741
+        },
+        {
+            "name": "man-group/notebooker",
+            "stars": 731
+        },
+        {
+            "name": "world-class/REPL",
+            "stars": 686
+        },
+        {
+            "name": "nucypher/nucypher",
+            "stars": 679
+        },
+        {
+            "name": "cresset-template/cresset",
+            "stars": 674
+        },
+        {
+            "name": "python-attrs/cattrs",
+            "stars": 629
+        },
+        {
+            "name": "texturedesign/texturize",
+            "stars": 621
+        },
+        {
+            "name": "Axelrod-Python/Axelrod",
+            "stars": 614
+        },
+        {
+            "name": "alibaba/BladeDISC",
+            "stars": 607
+        },
+        {
+            "name": "litestar-org/polyfactory",
+            "stars": 586
+        },
+        {
+            "name": "xlwings/jsondiff",
+            "stars": 583
+        },
+        {
+            "name": "pyparallel/pyparallel",
+            "stars": 578
+        },
+        {
+            "name": "lukew3/mathgenerator",
+            "stars": 577
+        },
+        {
+            "name": "pgjones/hypercorn",
+            "stars": 564
+        },
+        {
+            "name": "nipy/nibabel",
+            "stars": 553
+        },
+        {
+            "name": "Eventual-Inc/Daft",
+            "stars": 552
+        },
+        {
+            "name": "ics-py/ics-py",
+            "stars": 544
+        },
+        {
+            "name": "life4/deal",
+            "stars": 541
+        },
+        {
+            "name": "pygobject/pycairo",
+            "stars": 533
+        },
+        {
+            "name": "PaddlePaddle/Paddle2ONNX",
+            "stars": 527
+        },
+        {
+            "name": "YuePanEdward/MULLS",
+            "stars": 522
+        },
+        {
+            "name": "lucasjinreal/keras_frcnn",
+            "stars": 521
+        },
+        {
+            "name": "pytries/datrie",
+            "stars": 511
+        },
+        {
+            "name": "python-mario/mario",
+            "stars": 494
+        },
+        {
+            "name": "mre/hyperjson",
+            "stars": 490
+        },
+        {
+            "name": "ethereum/sharding",
+            "stars": 480
+        },
+        {
+            "name": "JHUISI/charm",
+            "stars": 479
+        },
+        {
+            "name": "google/caliban",
+            "stars": 477
+        },
+        {
+            "name": "PacktPublishing/Clean-Code-in-Python",
+            "stars": 476
+        },
+        {
+            "name": "PlasmaPy/PlasmaPy",
+            "stars": 460
+        },
+        {
+            "name": "shakedzy/dython",
+            "stars": 457
+        },
+        {
+            "name": "mantl/terraform.py",
+            "stars": 449
+        },
+        {
+            "name": "Stvad/CrowdAnki",
+            "stars": 445
+        },
+        {
+            "name": "openedx/XBlock",
+            "stars": 445
+        },
+        {
+            "name": "dflook/python-minifier",
+            "stars": 444
+        },
+        {
+            "name": "poljar/matrix-nio",
+            "stars": 443
+        },
+        {
+            "name": "mozilla/bugbug",
+            "stars": 442
+        },
+        {
+            "name": "dit/dit",
+            "stars": 435
+        },
+        {
+            "name": "Normation/rudder",
+            "stars": 433
+        },
+        {
+            "name": "opendatacube/datacube-core",
+            "stars": 433
+        },
+        {
+            "name": "ericmjl/nxviz",
+            "stars": 425
+        },
+        {
+            "name": "vmprof/vmprof-python",
+            "stars": 425
+        },
+        {
+            "name": "harvardnlp/namedtensor",
+            "stars": 424
+        },
+        {
+            "name": "gigamonkey/monorepoize",
+            "stars": 422
+        },
+        {
+            "name": "DataDog/dd-trace-py",
+            "stars": 415
+        },
+        {
+            "name": "xen0l/aws-gate",
+            "stars": 415
+        },
+        {
+            "name": "Ekeany/Boruta-Shap",
+            "stars": 409
+        },
+        {
+            "name": "buguroo/pyknow",
+            "stars": 409
+        },
+        {
+            "name": "curvefi/curve-stablecoin",
+            "stars": 391
+        },
+        {
+            "name": "mozillazg/pypy",
+            "stars": 391
+        },
+        {
+            "name": "ustwo/mastermind",
+            "stars": 389
+        },
+        {
+            "name": "tryexceptpass/sofi",
+            "stars": 384
+        },
+        {
+            "name": "pimutils/todoman",
+            "stars": 383
+        },
+        {
+            "name": "indygreg/python-zstandard",
+            "stars": 381
+        },
+        {
+            "name": "rcarriga/vim-ultest",
+            "stars": 380
+        },
+        {
+            "name": "kragniz/python-etcd3",
+            "stars": 379
+        },
+        {
+            "name": "kkrt-labs/kakarot",
+            "stars": 376
+        },
+        {
+            "name": "motional/nuplan-devkit",
+            "stars": 374
+        },
+        {
+            "name": "sacdallago/bio_embeddings",
+            "stars": 370
+        },
+        {
+            "name": "mesalock-linux/mesapy",
+            "stars": 369
+        },
+        {
+            "name": "nccgroup/blackboxprotobuf",
+            "stars": 367
+        },
+        {
+            "name": "BurnySc2/python-sc2",
+            "stars": 365
+        },
+        {
+            "name": "sajjadium/ctf-archives",
+            "stars": 361
+        },
+        {
+            "name": "corrscope/corrscope",
+            "stars": 357
+        },
+        {
+            "name": "harvard-lil/perma",
+            "stars": 357
+        },
+        {
+            "name": "mapbox/mercantile",
+            "stars": 355
+        },
+        {
+            "name": "MagNet-DL/magnet",
+            "stars": 355
+        },
+        {
+            "name": "parkpow/deep-license-plate-recognition",
+            "stars": 353
+        },
+        {
+            "name": "kensho-technologies/pyctcdecode",
+            "stars": 353
+        },
+        {
+            "name": "cdown/srt",
+            "stars": 352
+        },
+        {
+            "name": "DShield-ISC/dshield",
+            "stars": 345
+        },
+        {
+            "name": "PKSHATechnology-Research/camphr",
+            "stars": 342
+        },
+        {
+            "name": "static-frame/static-frame",
+            "stars": 341
+        },
+        {
+            "name": "quickstrom/quickstrom",
+            "stars": 338
+        },
+        {
+            "name": "Opentrons/opentrons",
+            "stars": 335
+        },
+        {
+            "name": "timothycrosley/hypothesis-auto",
+            "stars": 331
+        },
+        {
+            "name": "opentensor/bittensor",
+            "stars": 327
+        },
+        {
+            "name": "ezyang/ghstack",
+            "stars": 327
+        },
+        {
+            "name": "tommikaikkonen/prettyprinter",
+            "stars": 326
+        },
+        {
+            "name": "taskcluster/taskcluster",
+            "stars": 322
+        },
+        {
+            "name": "cognitedata/Expression",
+            "stars": 311
+        },
+        {
+            "name": "cole/aiosmtplib",
+            "stars": 297
+        },
+        {
+            "name": "wildfish/django-star-ratings",
+            "stars": 296
+        },
+        {
+            "name": "KissPeter/APIFuzzer",
+            "stars": 288
+        },
+        {
+            "name": "curvefi/curve-dao-contracts",
+            "stars": 286
+        },
+        {
+            "name": "facebookincubator/ptr",
+            "stars": 285
+        },
+        {
+            "name": "engnadeau/pybotics",
+            "stars": 285
+        },
+        {
+            "name": "pymtl/pymtl3",
+            "stars": 285
+        },
+        {
+            "name": "anibali/dsntnn",
+            "stars": 283
+        },
+        {
+            "name": "xk-huang/yet-another-vectornet",
+            "stars": 280
+        },
+        {
+            "name": "dessa-oss/atlas",
+            "stars": 280
+        },
+        {
+            "name": "aws-cloudformation/cloudformation-cli",
+            "stars": 275
+        },
+        {
+            "name": "tournesol-app/tournesol",
+            "stars": 270
+        },
+        {
+            "name": "holoviz/spatialpandas",
+            "stars": 268
+        },
+        {
+            "name": "gerrymanoim/exchange_calendars",
+            "stars": 265
+        },
+        {
+            "name": "nucypher/pyUmbral",
+            "stars": 264
+        },
+        {
+            "name": "swing-opensource/swingmusic",
+            "stars": 262
+        },
+        {
+            "name": "geopolars/geopolars",
+            "stars": 262
+        },
+        {
+            "name": "luisguiserrano/manning",
+            "stars": 257
+        },
+        {
+            "name": "BBVA/apicheck",
+            "stars": 257
+        },
+        {
+            "name": "dsw/proquint",
+            "stars": 257
+        },
+        {
+            "name": "maas/maas",
+            "stars": 256
+        },
+        {
+            "name": "hadialqattan/pycln",
+            "stars": 253
+        },
+        {
+            "name": "pymedphys/pymedphys",
+            "stars": 253
+        },
+        {
+            "name": "QCoDeS/Qcodes",
+            "stars": 252
+        },
+        {
+            "name": "ClusterHQ/dvol",
+            "stars": 252
+        },
+        {
+            "name": "gilch/hissp",
+            "stars": 250
+        },
+        {
+            "name": "readthedocs/commonmark.py",
+            "stars": 240
+        },
+        {
+            "name": "ppb/pursuedpybear",
+            "stars": 236
+        },
+        {
+            "name": "ask/mode",
+            "stars": 234
+        },
+        {
+            "name": "pymor/pymor",
+            "stars": 230
+        },
+        {
+            "name": "software-mansion/protostar",
+            "stars": 230
+        },
+        {
+            "name": "public/sonora",
+            "stars": 228
+        },
+        {
+            "name": "MartinThoma/algorithms",
+            "stars": 227
+        },
+        {
+            "name": "Corvia/django-tenant-users",
+            "stars": 226
+        },
+        {
+            "name": "xhochy/fletcher",
+            "stars": 225
+        },
+        {
+            "name": "CyberAgentAILab/cmaes",
+            "stars": 225
+        },
+        {
+            "name": "jazzband/django-eav2",
+            "stars": 224
+        },
+        {
+            "name": "Scille/parsec-cloud",
+            "stars": 223
+        },
+        {
+            "name": "cdown/yturl",
+            "stars": 221
+        },
+        {
+            "name": "cgarciae/treex",
+            "stars": 217
+        },
+        {
+            "name": "chalk-diagrams/chalk",
+            "stars": 216
+        },
+        {
+            "name": "PokeAPI/pokebase",
+            "stars": 216
+        },
+        {
+            "name": "pbrod/numdifftools",
+            "stars": 211
+        },
+        {
+            "name": "soaxelbrooke/python-bpe",
+            "stars": 211
+        },
+        {
+            "name": "RSSerpent/RSSerpent",
+            "stars": 209
+        },
+        {
+            "name": "sgoldenlab/simba",
+            "stars": 208
+        },
+        {
+            "name": "banteg/multicall.py",
+            "stars": 207
+        },
+        {
+            "name": "python-jsonschema/hypothesis-jsonschema",
+            "stars": 205
+        },
+        {
+            "name": "polm/cutlet",
+            "stars": 203
+        },
+        {
+            "name": "ethereum/eth-abi",
+            "stars": 203
+        },
+        {
+            "name": "rocky/python-xdis",
+            "stars": 202
+        },
+        {
+            "name": "Delta-F/DeltaTrader",
+            "stars": 199
+        },
+        {
+            "name": "loris-imageserver/loris",
+            "stars": 199
+        },
+        {
+            "name": "seemoo-lab/polypyus",
+            "stars": 198
+        },
+        {
+            "name": "EthanRosenthal/skits",
+            "stars": 198
+        },
+        {
+            "name": "explosion/cython-blis",
+            "stars": 198
+        },
+        {
+            "name": "eli5-org/eli5",
+            "stars": 192
+        },
+        {
+            "name": "pipermerriam/ethereum-function-signature-registry",
+            "stars": 190
+        },
+        {
+            "name": "nix-community/pypi2nix",
+            "stars": 189
+        },
+        {
+            "name": "kjam/data-pipelines-course",
+            "stars": 184
+        },
+        {
+            "name": "ninoseki/eml_analyzer",
+            "stars": 183
+        },
+        {
+            "name": "emporia-vue-local/esphome",
+            "stars": 181
+        },
+        {
+            "name": "tlsfuzzer/tlslite-ng",
+            "stars": 181
+        },
+        {
+            "name": "box/ClusterRunner",
+            "stars": 181
+        },
+        {
+            "name": "CQCL/tket",
+            "stars": 179
+        },
+        {
+            "name": "janfreyberg/superintendent",
+            "stars": 179
+        },
+        {
+            "name": "Yelp/fuzz-lightyear",
+            "stars": 176
+        },
+        {
+            "name": "ALIGN-analoglayout/ALIGN-public",
+            "stars": 175
+        },
+        {
+            "name": "gjoseph92/stackstac",
+            "stars": 174
+        },
+        {
+            "name": "Ezibenroc/PyRoaringBitMap",
+            "stars": 174
+        },
+        {
+            "name": "trailofbits/PrivacyRaven",
+            "stars": 169
+        },
+        {
+            "name": "vyperlang/titanoboa",
+            "stars": 169
+        },
+        {
+            "name": "firmai/interactive-corporate-report",
+            "stars": 169
+        },
+        {
+            "name": "quic/aimet-model-zoo",
+            "stars": 168
+        },
+        {
+            "name": "rsokl/MyGrad",
+            "stars": 166
+        },
+        {
+            "name": "ADGEfficiency/energy-py",
+            "stars": 165
+        },
+        {
+            "name": "pencil-code/pencil-code",
+            "stars": 164
+        },
+        {
+            "name": "JDASoftwareGroup/kartothek",
+            "stars": 163
+        },
+        {
+            "name": "explosion/tokenizations",
+            "stars": 162
+        },
+        {
+            "name": "Mause/duckdb_engine",
+            "stars": 161
+        },
+        {
+            "name": "aosokin/os2d",
+            "stars": 160
+        },
+        {
+            "name": "marnikitta/stattests",
+            "stars": 160
+        },
+        {
+            "name": "dssg/triage",
+            "stars": 160
+        },
+        {
+            "name": "ffalcinelli/pydivert",
+            "stars": 160
+        },
+        {
+            "name": "python-tls/tls",
+            "stars": 159
+        },
+        {
+            "name": "TileDB-Inc/TileDB-Py",
+            "stars": 158
+        },
+        {
+            "name": "jspahrsummers/adt",
+            "stars": 158
+        },
+        {
+            "name": "brentspell/hifi-gan-bwe",
+            "stars": 157
+        },
+        {
+            "name": "AnshMittal1811/MachineLearning-AI",
+            "stars": 153
+        },
+        {
+            "name": "HPAC/matchpy",
+            "stars": 152
+        },
+        {
+            "name": "antonagestam/phantom-types",
+            "stars": 151
+        },
+        {
+            "name": "ngalongc/openapi_security_scanner",
+            "stars": 151
+        },
+        {
+            "name": "tskit-dev/msprime",
+            "stars": 150
+        },
+        {
+            "name": "microsoft/electionguard-python",
+            "stars": 149
+        },
+        {
+            "name": "pystatgen/sgkit",
+            "stars": 149
+        },
+        {
+            "name": "costastf/locationsharinglib",
+            "stars": 147
+        },
+        {
+            "name": "GaloisInc/MATE",
+            "stars": 145
+        },
+        {
+            "name": "curvefi/curve-pool-registry",
+            "stars": 141
+        },
+        {
+            "name": "VirtualCable/openuds",
+            "stars": 141
+        },
+        {
+            "name": "ZJU-OpenKS/OpenKS",
+            "stars": 141
+        },
+        {
+            "name": "ADGEfficiency/teaching-monolith",
+            "stars": 141
+        },
+        {
+            "name": "servo/mozjs",
+            "stars": 140
+        },
+        {
+            "name": "rmariano/Clean-code-in-Python",
+            "stars": 140
+        },
+        {
+            "name": "suned/pfun",
+            "stars": 139
+        },
+        {
+            "name": "mangaki/mangaki",
+            "stars": 138
+        },
+        {
+            "name": "python-hyper/brotlicffi",
+            "stars": 138
+        },
+        {
+            "name": "jefflai108/pytorch-kaldi-neural-speaker-embeddings",
+            "stars": 135
+        },
+        {
+            "name": "curvefi/brownie-tutorial",
+            "stars": 134
+        },
+        {
+            "name": "backtrace-labs/umash",
+            "stars": 133
+        },
+        {
+            "name": "cunla/fakeredis-py",
+            "stars": 132
+        },
+        {
+            "name": "tmb5cg/Fifa-Autobidder",
+            "stars": 132
+        },
+        {
+            "name": "fhightower/ioc-finder",
+            "stars": 131
+        },
+        {
+            "name": "PacktPublishing/Python-Natural-Language-Processing-Cookbook",
+            "stars": 130
+        },
+        {
+            "name": "CiwPython/Ciw",
+            "stars": 128
+        },
+        {
+            "name": "binaryornot/binaryornot",
+            "stars": 126
+        },
+        {
+            "name": "virantha/bricknil",
+            "stars": 125
+        },
+        {
+            "name": "glyph/Pomodouroboros",
+            "stars": 124
+        },
+        {
+            "name": "scikit-hep/boost-histogram",
+            "stars": 123
+        },
+        {
+            "name": "janpipek/physt",
+            "stars": 122
+        },
+        {
+            "name": "andrejonasson/dynamic-coattention-network-plus",
+            "stars": 122
+        },
+        {
+            "name": "WZBSocialScienceCenter/geovoronoi",
+            "stars": 121
+        },
+        {
+            "name": "Phelimb/BIGSI",
+            "stars": 121
+        },
+        {
+            "name": "Eomys/pyleecan",
+            "stars": 120
+        },
+        {
+            "name": "stanford-iprl-lab/torchfilter",
+            "stars": 120
+        },
+        {
+            "name": "daffidwilde/matching",
+            "stars": 120
+        },
+        {
+            "name": "AIworx-Labs/chocolate",
+            "stars": 119
+        },
+        {
+            "name": "jemisjoky/TorchMPS",
+            "stars": 118
+        },
+        {
+            "name": "satellogic/orbit-predictor",
+            "stars": 118
+        },
+        {
+            "name": "uber/bayesmark",
+            "stars": 117
+        },
+        {
+            "name": "bolgebrygg/Force-2020-Machine-Learning-competition",
+            "stars": 113
+        },
+        {
+            "name": "nielstron/quantulum3",
+            "stars": 112
+        },
+        {
+            "name": "pckroon/pysmiles",
+            "stars": 112
+        },
+        {
+            "name": "Kharacternyk/barva",
+            "stars": 112
+        },
+        {
+            "name": "ptrus/suffix-trees",
+            "stars": 112
+        },
+        {
+            "name": "ocadotechnology/aimmo",
+            "stars": 110
+        },
+        {
+            "name": "DRMacIver/minithesis",
+            "stars": 104
+        },
+        {
+            "name": "RAIVNLab/supsup",
+            "stars": 104
+        },
+        {
+            "name": "pviafore/RobustPython",
+            "stars": 103
+        },
+        {
+            "name": "glondu/belenios",
+            "stars": 103
+        },
+        {
+            "name": "gforcada/flake8-builtins",
+            "stars": 103
+        },
+        {
+            "name": "nanograv/PINT",
+            "stars": 103
+        },
+        {
+            "name": "OasisLMF/OasisLMF",
+            "stars": 103
+        },
+        {
+            "name": "Badger-Finance/badger-system",
+            "stars": 102
+        },
+        {
+            "name": "noisebridge/PythonClass",
+            "stars": 102
+        },
+        {
+            "name": "OpShin/opshin",
+            "stars": 101
+        },
+        {
+            "name": "PacktPublishing/Clean-Code-in-Python-Second-Edition",
+            "stars": 101
+        },
+        {
+            "name": "luoliyan/chinese-support-redux",
+            "stars": 101
+        }
+    ],
+    "total_dependents_number": 19639,
+    "public_dependents_number": 367,
+    "private_dependents_number": 19272,
+    "public_dependents_stars": 0,
+    "badges": {
+        "total": "[![](https://img.shields.io/static/v1?label=Used%20by&message=19639&color=informational&logo=slickpic)](https://github.com/HypothesisWorks/hypothesis/network/dependents)",
+        "public": "[![](https://img.shields.io/static/v1?label=Used%20by%20(public)&message=367&color=informational&logo=slickpic)](https://github.com/HypothesisWorks/hypothesis/network/dependents)",
+        "private": "[![](https://img.shields.io/static/v1?label=Used%20by%20(private)&message=19272&color=informational&logo=slickpic)](https://github.com/HypothesisWorks/hypothesis/network/dependents)",
+        "stars": "[![](https://img.shields.io/static/v1?label=Used%20by%20(stars)&message=0&color=informational&logo=slickpic)](https://github.com/HypothesisWorks/hypothesis/network/dependents)"
+    },
+    "packages": [
+        [
+            {
+                "id": "UGFja2FnZS01MjIxNzI4MQ%3D%3D",
+                "name": "hypothesis",
+                "url": "https://github.com/HypothesisWorks/hypothesis/network/dependents?package_id=UGFja2FnZS01MjIxNzI4MQ%3D%3D",
+                "public_dependent_stars": 0,
+                "public_dependents": [
+                    {
+                        "name": "huggingface/transformers",
+                        "stars": 100067
+                    },
+                    {
+                        "name": "pytorch/pytorch",
+                        "stars": 66859
+                    },
+                    {
+                        "name": "commaai/openpilot",
+                        "stars": 39369
+                    },
+                    {
+                        "name": "pandas-dev/pandas",
+                        "stars": 38368
+                    },
+                    {
+                        "name": "explosion/spaCy",
+                        "stars": 26133
+                    },
+                    {
+                        "name": "streamlit/streamlit",
+                        "stars": 24697
+                    },
+                    {
+                        "name": "google/python-fire",
+                        "stars": 24534
+                    },
+                    {
+                        "name": "numpy/numpy",
+                        "stars": 23521
+                    },
+                    {
+                        "name": "servo/servo",
+                        "stars": 23035
+                    },
+                    {
+                        "name": "PaddlePaddle/Paddle",
+                        "stars": 20249
+                    },
+                    {
+                        "name": "pola-rs/polars",
+                        "stars": 17147
+                    },
+                    {
+                        "name": "apache/arrow",
+                        "stars": 11715
+                    },
+                    {
+                        "name": "apple/turicreate",
+                        "stars": 11023
+                    },
+                    {
+                        "name": "unifyai/ivy",
+                        "stars": 10686
+                    },
+                    {
+                        "name": "airbytehq/airbyte",
+                        "stars": 10594
+                    },
+                    {
+                        "name": "qdrant/qdrant",
+                        "stars": 10060
+                    },
+                    {
+                        "name": "pyodide/pyodide",
+                        "stars": 10043
+                    },
+                    {
+                        "name": "aws/chalice",
+                        "stars": 9728
+                    },
+                    {
+                        "name": "twitter/the-algorithm-ml",
+                        "stars": 9439
+                    },
+                    {
+                        "name": "qutebrowser/qutebrowser",
+                        "stars": 8632
+                    },
+                    {
+                        "name": "squeaky-pl/japronto",
+                        "stars": 8611
+                    },
+                    {
+                        "name": "PyO3/pyo3",
+                        "stars": 8440
+                    },
+                    {
+                        "name": "apache/beam",
+                        "stars": 6864
+                    },
+                    {
+                        "name": "HypothesisWorks/hypothesis",
+                        "stars": 6702
+                    },
+                    {
+                        "name": "PaddlePaddle/Paddle-Lite",
+                        "stars": 6547
+                    },
+                    {
+                        "name": "robinhood/faust",
+                        "stars": 6543
+                    },
+                    {
+                        "name": "facebookresearch/pytext",
+                        "stars": 6359
+                    },
+                    {
+                        "name": "esphome/esphome",
+                        "stars": 6200
+                    },
+                    {
+                        "name": "WebKit/WebKit",
+                        "stars": 6162
+                    },
+                    {
+                        "name": "sqlfluff/sqlfluff",
+                        "stars": 6101
+                    },
+                    {
+                        "name": "wandb/wandb",
+                        "stars": 6055
+                    },
+                    {
+                        "name": "cleanlab/cleanlab",
+                        "stars": 5891
+                    },
+                    {
+                        "name": "telepresenceio/telepresence",
+                        "stars": 5817
+                    },
+                    {
+                        "name": "PyCQA/isort",
+                        "stars": 5798
+                    },
+                    {
+                        "name": "apache/couchdb",
+                        "stars": 5684
+                    },
+                    {
+                        "name": "jarun/buku",
+                        "stars": 5665
+                    },
+                    {
+                        "name": "pyca/cryptography",
+                        "stars": 5536
+                    },
+                    {
+                        "name": "conda/conda",
+                        "stars": 5442
+                    },
+                    {
+                        "name": "chroma-core/chroma",
+                        "stars": 5167
+                    },
+                    {
+                        "name": "replicate/cog",
+                        "stars": 4725
+                    },
+                    {
+                        "name": "pixie-io/pixie",
+                        "stars": 4561
+                    },
+                    {
+                        "name": "ijl/orjson",
+                        "stars": 4560
+                    },
+                    {
+                        "name": "vyperlang/vyper",
+                        "stars": 4514
+                    },
+                    {
+                        "name": "web-platform-tests/wpt",
+                        "stars": 4333
+                    },
+                    {
+                        "name": "ethereum/web3.py",
+                        "stars": 4238
+                    },
+                    {
+                        "name": "infobyte/faraday",
+                        "stars": 3927
+                    },
+                    {
+                        "name": "Netflix/dispatch",
+                        "stars": 3902
+                    },
+                    {
+                        "name": "deepmind/open_spiel",
+                        "stars": 3659
+                    },
+                    {
+                        "name": "Qiskit/qiskit-terra",
+                        "stars": 3597
+                    },
+                    {
+                        "name": "nylas/sync-engine",
+                        "stars": 3513
+                    },
+                    {
+                        "name": "freedomofpress/securedrop",
+                        "stars": 3433
+                    },
+                    {
+                        "name": "bear/python-twitter",
+                        "stars": 3388
+                    },
+                    {
+                        "name": "ClusterHQ/flocker",
+                        "stars": 3366
+                    },
+                    {
+                        "name": "rocky/python-uncompyle6",
+                        "stars": 3134
+                    },
+                    {
+                        "name": "zenml-io/zenml",
+                        "stars": 2860
+                    },
+                    {
+                        "name": "mozilla/gecko-dev",
+                        "stars": 2807
+                    },
+                    {
+                        "name": "dry-python/returns",
+                        "stars": 2744
+                    },
+                    {
+                        "name": "explosion/thinc",
+                        "stars": 2717
+                    },
+                    {
+                        "name": "hypothesis/h",
+                        "stars": 2703
+                    },
+                    {
+                        "name": "ibis-project/ibis",
+                        "stars": 2701
+                    },
+                    {
+                        "name": "TeamHG-Memex/eli5",
+                        "stars": 2666
+                    },
+                    {
+                        "name": "celery/kombu",
+                        "stars": 2533
+                    },
+                    {
+                        "name": "liiight/notifiers",
+                        "stars": 2443
+                    },
+                    {
+                        "name": "eth-brownie/brownie",
+                        "stars": 2439
+                    },
+                    {
+                        "name": "unionai-oss/pandera",
+                        "stars": 2322
+                    },
+                    {
+                        "name": "wemake-services/wemake-python-styleguide",
+                        "stars": 2215
+                    },
+                    {
+                        "name": "pimutils/khal",
+                        "stars": 2202
+                    },
+                    {
+                        "name": "litestar-org/litestar",
+                        "stars": 2139
+                    },
+                    {
+                        "name": "dateutil/dateutil",
+                        "stars": 2056
+                    },
+                    {
+                        "name": "WZBSocialScienceCenter/pdftabextract",
+                        "stars": 2055
+                    },
+                    {
+                        "name": "ethereum/py-evm",
+                        "stars": 1981
+                    },
+                    {
+                        "name": "rasterio/rasterio",
+                        "stars": 1953
+                    },
+                    {
+                        "name": "google-research/kubric",
+                        "stars": 1869
+                    },
+                    {
+                        "name": "raiden-network/raiden",
+                        "stars": 1860
+                    },
+                    {
+                        "name": "pallets/quart",
+                        "stars": 1853
+                    },
+                    {
+                        "name": "tobgu/pyrsistent",
+                        "stars": 1853
+                    },
+                    {
+                        "name": "jmespath/jmespath.py",
+                        "stars": 1805
+                    },
+                    {
+                        "name": "pyvista/pyvista",
+                        "stars": 1789
+                    },
+                    {
+                        "name": "pikepdf/pikepdf",
+                        "stars": 1739
+                    },
+                    {
+                        "name": "facebookresearch/habitat-sim",
+                        "stars": 1738
+                    },
+                    {
+                        "name": "wemake-services/wemake-django-template",
+                        "stars": 1725
+                    },
+                    {
+                        "name": "schemathesis/schemathesis",
+                        "stars": 1697
+                    },
+                    {
+                        "name": "alldatacenter/alldata",
+                        "stars": 1656
+                    },
+                    {
+                        "name": "Yelp/paasta",
+                        "stars": 1651
+                    },
+                    {
+                        "name": "VertaAI/modeldb",
+                        "stars": 1588
+                    },
+                    {
+                        "name": "winpython/winpython",
+                        "stars": 1576
+                    },
+                    {
+                        "name": "getsentry/sentry-python",
+                        "stars": 1533
+                    },
+                    {
+                        "name": "redballoonsecurity/ofrak",
+                        "stars": 1532
+                    },
+                    {
+                        "name": "mitmproxy/pdoc",
+                        "stars": 1532
+                    },
+                    {
+                        "name": "nubank/fklearn",
+                        "stars": 1442
+                    },
+                    {
+                        "name": "pytorch/torchrec",
+                        "stars": 1428
+                    },
+                    {
+                        "name": "cgarciae/pypeln",
+                        "stars": 1413
+                    },
+                    {
+                        "name": "tableau/TabPy",
+                        "stars": 1404
+                    },
+                    {
+                        "name": "pytorch/opacus",
+                        "stars": 1399
+                    },
+                    {
+                        "name": "gaphor/gaphor",
+                        "stars": 1392
+                    },
+                    {
+                        "name": "someengineering/resoto",
+                        "stars": 1378
+                    },
+                    {
+                        "name": "explosion/spacy-models",
+                        "stars": 1324
+                    },
+                    {
+                        "name": "pimutils/vdirsyncer",
+                        "stars": 1285
+                    },
+                    {
+                        "name": "quodlibet/mutagen",
+                        "stars": 1253
+                    },
+                    {
+                        "name": "datapane/datapane",
+                        "stars": 1207
+                    },
+                    {
+                        "name": "google/brain-tokyo-workshop",
+                        "stars": 1193
+                    },
+                    {
+                        "name": "minitorch/minitorch",
+                        "stars": 1168
+                    },
+                    {
+                        "name": "weaveworks/kubediff",
+                        "stars": 1163
+                    },
+                    {
+                        "name": "pyjanitor-devs/pyjanitor",
+                        "stars": 1141
+                    },
+                    {
+                        "name": "lidatong/dataclasses-json",
+                        "stars": 1123
+                    },
+                    {
+                        "name": "BitBotFactory/MikaLendingBot",
+                        "stars": 1097
+                    },
+                    {
+                        "name": "tlaplus/Examples",
+                        "stars": 1079
+                    },
+                    {
+                        "name": "harvardnlp/pytorch-struct",
+                        "stars": 1073
+                    },
+                    {
+                        "name": "se2p/pynguin",
+                        "stars": 1072
+                    },
+                    {
+                        "name": "trezor/trezor-firmware",
+                        "stars": 1040
+                    },
+                    {
+                        "name": "HXSecurity/DongTai",
+                        "stars": 1033
+                    },
+                    {
+                        "name": "srush/Tensor-Puzzles",
+                        "stars": 1032
+                    },
+                    {
+                        "name": "MDAnalysis/mdanalysis",
+                        "stars": 1029
+                    },
+                    {
+                        "name": "faust-streaming/faust",
+                        "stars": 1028
+                    },
+                    {
+                        "name": "Checkmk/checkmk",
+                        "stars": 1026
+                    },
+                    {
+                        "name": "machow/siuba",
+                        "stars": 1023
+                    },
+                    {
+                        "name": "sentinel-hub/eo-learn",
+                        "stars": 996
+                    },
+                    {
+                        "name": "Beomi/KoAlpaca",
+                        "stars": 988
+                    },
+                    {
+                        "name": "hedyorg/hedy",
+                        "stars": 979
+                    },
+                    {
+                        "name": "Mesa3D/mesa",
+                        "stars": 979
+                    },
+                    {
+                        "name": "pytries/marisa-trie",
+                        "stars": 974
+                    },
+                    {
+                        "name": "pyca/pynacl",
+                        "stars": 966
+                    },
+                    {
+                        "name": "demisto/content",
+                        "stars": 948
+                    },
+                    {
+                        "name": "pytorch/FBGEMM",
+                        "stars": 937
+                    },
+                    {
+                        "name": "timothycrosley/streamdeck-ui",
+                        "stars": 916
+                    },
+                    {
+                        "name": "pydantic/pydantic-core",
+                        "stars": 913
+                    },
+                    {
+                        "name": "whitesmith/hawkpost",
+                        "stars": 911
+                    },
+                    {
+                        "name": "emalderson/ThePhish",
+                        "stars": 880
+                    },
+                    {
+                        "name": "pschanely/CrossHair",
+                        "stars": 866
+                    },
+                    {
+                        "name": "python-escpos/python-escpos",
+                        "stars": 858
+                    },
+                    {
+                        "name": "Xilinx/brevitas",
+                        "stars": 845
+                    },
+                    {
+                        "name": "rocky/python-decompile3",
+                        "stars": 838
+                    },
+                    {
+                        "name": "timothycrosley/portray",
+                        "stars": 837
+                    },
+                    {
+                        "name": "tlsfuzzer/python-ecdsa",
+                        "stars": 827
+                    },
+                    {
+                        "name": "sec-edgar/sec-edgar",
+                        "stars": 823
+                    },
+                    {
+                        "name": "eliasdabbas/advertools",
+                        "stars": 823
+                    },
+                    {
+                        "name": "pycco-docs/pycco",
+                        "stars": 822
+                    },
+                    {
+                        "name": "twisted/klein",
+                        "stars": 813
+                    },
+                    {
+                        "name": "intel/intel-extension-for-pytorch",
+                        "stars": 776
+                    },
+                    {
+                        "name": "baal-org/baal",
+                        "stars": 741
+                    },
+                    {
+                        "name": "man-group/notebooker",
+                        "stars": 731
+                    },
+                    {
+                        "name": "world-class/REPL",
+                        "stars": 686
+                    },
+                    {
+                        "name": "nucypher/nucypher",
+                        "stars": 679
+                    },
+                    {
+                        "name": "cresset-template/cresset",
+                        "stars": 674
+                    },
+                    {
+                        "name": "python-attrs/cattrs",
+                        "stars": 629
+                    },
+                    {
+                        "name": "texturedesign/texturize",
+                        "stars": 621
+                    },
+                    {
+                        "name": "Axelrod-Python/Axelrod",
+                        "stars": 614
+                    },
+                    {
+                        "name": "alibaba/BladeDISC",
+                        "stars": 607
+                    },
+                    {
+                        "name": "litestar-org/polyfactory",
+                        "stars": 586
+                    },
+                    {
+                        "name": "xlwings/jsondiff",
+                        "stars": 583
+                    },
+                    {
+                        "name": "pyparallel/pyparallel",
+                        "stars": 578
+                    },
+                    {
+                        "name": "lukew3/mathgenerator",
+                        "stars": 577
+                    },
+                    {
+                        "name": "pgjones/hypercorn",
+                        "stars": 564
+                    },
+                    {
+                        "name": "nipy/nibabel",
+                        "stars": 553
+                    },
+                    {
+                        "name": "Eventual-Inc/Daft",
+                        "stars": 552
+                    },
+                    {
+                        "name": "ics-py/ics-py",
+                        "stars": 544
+                    },
+                    {
+                        "name": "life4/deal",
+                        "stars": 541
+                    },
+                    {
+                        "name": "pygobject/pycairo",
+                        "stars": 533
+                    },
+                    {
+                        "name": "PaddlePaddle/Paddle2ONNX",
+                        "stars": 527
+                    },
+                    {
+                        "name": "YuePanEdward/MULLS",
+                        "stars": 522
+                    },
+                    {
+                        "name": "lucasjinreal/keras_frcnn",
+                        "stars": 521
+                    },
+                    {
+                        "name": "pytries/datrie",
+                        "stars": 511
+                    },
+                    {
+                        "name": "python-mario/mario",
+                        "stars": 494
+                    },
+                    {
+                        "name": "mre/hyperjson",
+                        "stars": 490
+                    },
+                    {
+                        "name": "ethereum/sharding",
+                        "stars": 480
+                    },
+                    {
+                        "name": "JHUISI/charm",
+                        "stars": 479
+                    },
+                    {
+                        "name": "google/caliban",
+                        "stars": 477
+                    },
+                    {
+                        "name": "PacktPublishing/Clean-Code-in-Python",
+                        "stars": 476
+                    },
+                    {
+                        "name": "PlasmaPy/PlasmaPy",
+                        "stars": 460
+                    },
+                    {
+                        "name": "shakedzy/dython",
+                        "stars": 457
+                    },
+                    {
+                        "name": "mantl/terraform.py",
+                        "stars": 449
+                    },
+                    {
+                        "name": "Stvad/CrowdAnki",
+                        "stars": 445
+                    },
+                    {
+                        "name": "openedx/XBlock",
+                        "stars": 445
+                    },
+                    {
+                        "name": "dflook/python-minifier",
+                        "stars": 444
+                    },
+                    {
+                        "name": "poljar/matrix-nio",
+                        "stars": 443
+                    },
+                    {
+                        "name": "mozilla/bugbug",
+                        "stars": 442
+                    },
+                    {
+                        "name": "dit/dit",
+                        "stars": 435
+                    },
+                    {
+                        "name": "Normation/rudder",
+                        "stars": 433
+                    },
+                    {
+                        "name": "opendatacube/datacube-core",
+                        "stars": 433
+                    },
+                    {
+                        "name": "ericmjl/nxviz",
+                        "stars": 425
+                    },
+                    {
+                        "name": "vmprof/vmprof-python",
+                        "stars": 425
+                    },
+                    {
+                        "name": "harvardnlp/namedtensor",
+                        "stars": 424
+                    },
+                    {
+                        "name": "gigamonkey/monorepoize",
+                        "stars": 422
+                    },
+                    {
+                        "name": "DataDog/dd-trace-py",
+                        "stars": 415
+                    },
+                    {
+                        "name": "xen0l/aws-gate",
+                        "stars": 415
+                    },
+                    {
+                        "name": "Ekeany/Boruta-Shap",
+                        "stars": 409
+                    },
+                    {
+                        "name": "buguroo/pyknow",
+                        "stars": 409
+                    },
+                    {
+                        "name": "curvefi/curve-stablecoin",
+                        "stars": 391
+                    },
+                    {
+                        "name": "mozillazg/pypy",
+                        "stars": 391
+                    },
+                    {
+                        "name": "ustwo/mastermind",
+                        "stars": 389
+                    },
+                    {
+                        "name": "tryexceptpass/sofi",
+                        "stars": 384
+                    },
+                    {
+                        "name": "pimutils/todoman",
+                        "stars": 383
+                    },
+                    {
+                        "name": "indygreg/python-zstandard",
+                        "stars": 381
+                    },
+                    {
+                        "name": "rcarriga/vim-ultest",
+                        "stars": 380
+                    },
+                    {
+                        "name": "kragniz/python-etcd3",
+                        "stars": 379
+                    },
+                    {
+                        "name": "kkrt-labs/kakarot",
+                        "stars": 376
+                    },
+                    {
+                        "name": "motional/nuplan-devkit",
+                        "stars": 374
+                    },
+                    {
+                        "name": "sacdallago/bio_embeddings",
+                        "stars": 370
+                    },
+                    {
+                        "name": "mesalock-linux/mesapy",
+                        "stars": 369
+                    },
+                    {
+                        "name": "nccgroup/blackboxprotobuf",
+                        "stars": 367
+                    },
+                    {
+                        "name": "BurnySc2/python-sc2",
+                        "stars": 365
+                    },
+                    {
+                        "name": "sajjadium/ctf-archives",
+                        "stars": 361
+                    },
+                    {
+                        "name": "corrscope/corrscope",
+                        "stars": 357
+                    },
+                    {
+                        "name": "harvard-lil/perma",
+                        "stars": 357
+                    },
+                    {
+                        "name": "mapbox/mercantile",
+                        "stars": 355
+                    },
+                    {
+                        "name": "MagNet-DL/magnet",
+                        "stars": 355
+                    },
+                    {
+                        "name": "parkpow/deep-license-plate-recognition",
+                        "stars": 353
+                    },
+                    {
+                        "name": "kensho-technologies/pyctcdecode",
+                        "stars": 353
+                    },
+                    {
+                        "name": "cdown/srt",
+                        "stars": 352
+                    },
+                    {
+                        "name": "DShield-ISC/dshield",
+                        "stars": 345
+                    },
+                    {
+                        "name": "PKSHATechnology-Research/camphr",
+                        "stars": 342
+                    },
+                    {
+                        "name": "static-frame/static-frame",
+                        "stars": 341
+                    },
+                    {
+                        "name": "quickstrom/quickstrom",
+                        "stars": 338
+                    },
+                    {
+                        "name": "Opentrons/opentrons",
+                        "stars": 335
+                    },
+                    {
+                        "name": "timothycrosley/hypothesis-auto",
+                        "stars": 331
+                    },
+                    {
+                        "name": "opentensor/bittensor",
+                        "stars": 327
+                    },
+                    {
+                        "name": "ezyang/ghstack",
+                        "stars": 327
+                    },
+                    {
+                        "name": "tommikaikkonen/prettyprinter",
+                        "stars": 326
+                    },
+                    {
+                        "name": "taskcluster/taskcluster",
+                        "stars": 322
+                    },
+                    {
+                        "name": "cognitedata/Expression",
+                        "stars": 311
+                    },
+                    {
+                        "name": "cole/aiosmtplib",
+                        "stars": 297
+                    },
+                    {
+                        "name": "wildfish/django-star-ratings",
+                        "stars": 296
+                    },
+                    {
+                        "name": "KissPeter/APIFuzzer",
+                        "stars": 288
+                    },
+                    {
+                        "name": "curvefi/curve-dao-contracts",
+                        "stars": 286
+                    },
+                    {
+                        "name": "facebookincubator/ptr",
+                        "stars": 285
+                    },
+                    {
+                        "name": "engnadeau/pybotics",
+                        "stars": 285
+                    },
+                    {
+                        "name": "pymtl/pymtl3",
+                        "stars": 285
+                    },
+                    {
+                        "name": "anibali/dsntnn",
+                        "stars": 283
+                    },
+                    {
+                        "name": "xk-huang/yet-another-vectornet",
+                        "stars": 280
+                    },
+                    {
+                        "name": "dessa-oss/atlas",
+                        "stars": 280
+                    },
+                    {
+                        "name": "aws-cloudformation/cloudformation-cli",
+                        "stars": 275
+                    },
+                    {
+                        "name": "tournesol-app/tournesol",
+                        "stars": 270
+                    },
+                    {
+                        "name": "holoviz/spatialpandas",
+                        "stars": 268
+                    },
+                    {
+                        "name": "gerrymanoim/exchange_calendars",
+                        "stars": 265
+                    },
+                    {
+                        "name": "nucypher/pyUmbral",
+                        "stars": 264
+                    },
+                    {
+                        "name": "swing-opensource/swingmusic",
+                        "stars": 262
+                    },
+                    {
+                        "name": "geopolars/geopolars",
+                        "stars": 262
+                    },
+                    {
+                        "name": "luisguiserrano/manning",
+                        "stars": 257
+                    },
+                    {
+                        "name": "BBVA/apicheck",
+                        "stars": 257
+                    },
+                    {
+                        "name": "dsw/proquint",
+                        "stars": 257
+                    },
+                    {
+                        "name": "maas/maas",
+                        "stars": 256
+                    },
+                    {
+                        "name": "hadialqattan/pycln",
+                        "stars": 253
+                    },
+                    {
+                        "name": "pymedphys/pymedphys",
+                        "stars": 253
+                    },
+                    {
+                        "name": "QCoDeS/Qcodes",
+                        "stars": 252
+                    },
+                    {
+                        "name": "ClusterHQ/dvol",
+                        "stars": 252
+                    },
+                    {
+                        "name": "gilch/hissp",
+                        "stars": 250
+                    },
+                    {
+                        "name": "readthedocs/commonmark.py",
+                        "stars": 240
+                    },
+                    {
+                        "name": "ppb/pursuedpybear",
+                        "stars": 236
+                    },
+                    {
+                        "name": "ask/mode",
+                        "stars": 234
+                    },
+                    {
+                        "name": "pymor/pymor",
+                        "stars": 230
+                    },
+                    {
+                        "name": "software-mansion/protostar",
+                        "stars": 230
+                    },
+                    {
+                        "name": "public/sonora",
+                        "stars": 228
+                    },
+                    {
+                        "name": "MartinThoma/algorithms",
+                        "stars": 227
+                    },
+                    {
+                        "name": "Corvia/django-tenant-users",
+                        "stars": 226
+                    },
+                    {
+                        "name": "xhochy/fletcher",
+                        "stars": 225
+                    },
+                    {
+                        "name": "CyberAgentAILab/cmaes",
+                        "stars": 225
+                    },
+                    {
+                        "name": "jazzband/django-eav2",
+                        "stars": 224
+                    },
+                    {
+                        "name": "Scille/parsec-cloud",
+                        "stars": 223
+                    },
+                    {
+                        "name": "cdown/yturl",
+                        "stars": 221
+                    },
+                    {
+                        "name": "cgarciae/treex",
+                        "stars": 217
+                    },
+                    {
+                        "name": "chalk-diagrams/chalk",
+                        "stars": 216
+                    },
+                    {
+                        "name": "PokeAPI/pokebase",
+                        "stars": 216
+                    },
+                    {
+                        "name": "pbrod/numdifftools",
+                        "stars": 211
+                    },
+                    {
+                        "name": "soaxelbrooke/python-bpe",
+                        "stars": 211
+                    },
+                    {
+                        "name": "RSSerpent/RSSerpent",
+                        "stars": 209
+                    },
+                    {
+                        "name": "sgoldenlab/simba",
+                        "stars": 208
+                    },
+                    {
+                        "name": "banteg/multicall.py",
+                        "stars": 207
+                    },
+                    {
+                        "name": "python-jsonschema/hypothesis-jsonschema",
+                        "stars": 205
+                    },
+                    {
+                        "name": "polm/cutlet",
+                        "stars": 203
+                    },
+                    {
+                        "name": "ethereum/eth-abi",
+                        "stars": 203
+                    },
+                    {
+                        "name": "rocky/python-xdis",
+                        "stars": 202
+                    },
+                    {
+                        "name": "Delta-F/DeltaTrader",
+                        "stars": 199
+                    },
+                    {
+                        "name": "loris-imageserver/loris",
+                        "stars": 199
+                    },
+                    {
+                        "name": "seemoo-lab/polypyus",
+                        "stars": 198
+                    },
+                    {
+                        "name": "EthanRosenthal/skits",
+                        "stars": 198
+                    },
+                    {
+                        "name": "explosion/cython-blis",
+                        "stars": 198
+                    },
+                    {
+                        "name": "eli5-org/eli5",
+                        "stars": 192
+                    },
+                    {
+                        "name": "pipermerriam/ethereum-function-signature-registry",
+                        "stars": 190
+                    },
+                    {
+                        "name": "nix-community/pypi2nix",
+                        "stars": 189
+                    },
+                    {
+                        "name": "kjam/data-pipelines-course",
+                        "stars": 184
+                    },
+                    {
+                        "name": "ninoseki/eml_analyzer",
+                        "stars": 183
+                    },
+                    {
+                        "name": "emporia-vue-local/esphome",
+                        "stars": 181
+                    },
+                    {
+                        "name": "tlsfuzzer/tlslite-ng",
+                        "stars": 181
+                    },
+                    {
+                        "name": "box/ClusterRunner",
+                        "stars": 181
+                    },
+                    {
+                        "name": "CQCL/tket",
+                        "stars": 179
+                    },
+                    {
+                        "name": "janfreyberg/superintendent",
+                        "stars": 179
+                    },
+                    {
+                        "name": "Yelp/fuzz-lightyear",
+                        "stars": 176
+                    },
+                    {
+                        "name": "ALIGN-analoglayout/ALIGN-public",
+                        "stars": 175
+                    },
+                    {
+                        "name": "gjoseph92/stackstac",
+                        "stars": 174
+                    },
+                    {
+                        "name": "Ezibenroc/PyRoaringBitMap",
+                        "stars": 174
+                    },
+                    {
+                        "name": "trailofbits/PrivacyRaven",
+                        "stars": 169
+                    },
+                    {
+                        "name": "vyperlang/titanoboa",
+                        "stars": 169
+                    },
+                    {
+                        "name": "firmai/interactive-corporate-report",
+                        "stars": 169
+                    },
+                    {
+                        "name": "quic/aimet-model-zoo",
+                        "stars": 168
+                    },
+                    {
+                        "name": "rsokl/MyGrad",
+                        "stars": 166
+                    },
+                    {
+                        "name": "ADGEfficiency/energy-py",
+                        "stars": 165
+                    },
+                    {
+                        "name": "pencil-code/pencil-code",
+                        "stars": 164
+                    },
+                    {
+                        "name": "JDASoftwareGroup/kartothek",
+                        "stars": 163
+                    },
+                    {
+                        "name": "explosion/tokenizations",
+                        "stars": 162
+                    },
+                    {
+                        "name": "Mause/duckdb_engine",
+                        "stars": 161
+                    },
+                    {
+                        "name": "aosokin/os2d",
+                        "stars": 160
+                    },
+                    {
+                        "name": "marnikitta/stattests",
+                        "stars": 160
+                    },
+                    {
+                        "name": "dssg/triage",
+                        "stars": 160
+                    },
+                    {
+                        "name": "ffalcinelli/pydivert",
+                        "stars": 160
+                    },
+                    {
+                        "name": "python-tls/tls",
+                        "stars": 159
+                    },
+                    {
+                        "name": "TileDB-Inc/TileDB-Py",
+                        "stars": 158
+                    },
+                    {
+                        "name": "jspahrsummers/adt",
+                        "stars": 158
+                    },
+                    {
+                        "name": "brentspell/hifi-gan-bwe",
+                        "stars": 157
+                    },
+                    {
+                        "name": "AnshMittal1811/MachineLearning-AI",
+                        "stars": 153
+                    },
+                    {
+                        "name": "HPAC/matchpy",
+                        "stars": 152
+                    },
+                    {
+                        "name": "antonagestam/phantom-types",
+                        "stars": 151
+                    },
+                    {
+                        "name": "ngalongc/openapi_security_scanner",
+                        "stars": 151
+                    },
+                    {
+                        "name": "tskit-dev/msprime",
+                        "stars": 150
+                    },
+                    {
+                        "name": "microsoft/electionguard-python",
+                        "stars": 149
+                    },
+                    {
+                        "name": "pystatgen/sgkit",
+                        "stars": 149
+                    },
+                    {
+                        "name": "costastf/locationsharinglib",
+                        "stars": 147
+                    },
+                    {
+                        "name": "GaloisInc/MATE",
+                        "stars": 145
+                    },
+                    {
+                        "name": "curvefi/curve-pool-registry",
+                        "stars": 141
+                    },
+                    {
+                        "name": "VirtualCable/openuds",
+                        "stars": 141
+                    },
+                    {
+                        "name": "ZJU-OpenKS/OpenKS",
+                        "stars": 141
+                    },
+                    {
+                        "name": "ADGEfficiency/teaching-monolith",
+                        "stars": 141
+                    },
+                    {
+                        "name": "servo/mozjs",
+                        "stars": 140
+                    },
+                    {
+                        "name": "rmariano/Clean-code-in-Python",
+                        "stars": 140
+                    },
+                    {
+                        "name": "suned/pfun",
+                        "stars": 139
+                    },
+                    {
+                        "name": "mangaki/mangaki",
+                        "stars": 138
+                    },
+                    {
+                        "name": "python-hyper/brotlicffi",
+                        "stars": 138
+                    },
+                    {
+                        "name": "jefflai108/pytorch-kaldi-neural-speaker-embeddings",
+                        "stars": 135
+                    },
+                    {
+                        "name": "curvefi/brownie-tutorial",
+                        "stars": 134
+                    },
+                    {
+                        "name": "backtrace-labs/umash",
+                        "stars": 133
+                    },
+                    {
+                        "name": "cunla/fakeredis-py",
+                        "stars": 132
+                    },
+                    {
+                        "name": "tmb5cg/Fifa-Autobidder",
+                        "stars": 132
+                    },
+                    {
+                        "name": "fhightower/ioc-finder",
+                        "stars": 131
+                    },
+                    {
+                        "name": "PacktPublishing/Python-Natural-Language-Processing-Cookbook",
+                        "stars": 130
+                    },
+                    {
+                        "name": "CiwPython/Ciw",
+                        "stars": 128
+                    },
+                    {
+                        "name": "binaryornot/binaryornot",
+                        "stars": 126
+                    },
+                    {
+                        "name": "virantha/bricknil",
+                        "stars": 125
+                    },
+                    {
+                        "name": "glyph/Pomodouroboros",
+                        "stars": 124
+                    },
+                    {
+                        "name": "scikit-hep/boost-histogram",
+                        "stars": 123
+                    },
+                    {
+                        "name": "janpipek/physt",
+                        "stars": 122
+                    },
+                    {
+                        "name": "andrejonasson/dynamic-coattention-network-plus",
+                        "stars": 122
+                    },
+                    {
+                        "name": "WZBSocialScienceCenter/geovoronoi",
+                        "stars": 121
+                    },
+                    {
+                        "name": "Phelimb/BIGSI",
+                        "stars": 121
+                    },
+                    {
+                        "name": "Eomys/pyleecan",
+                        "stars": 120
+                    },
+                    {
+                        "name": "stanford-iprl-lab/torchfilter",
+                        "stars": 120
+                    },
+                    {
+                        "name": "daffidwilde/matching",
+                        "stars": 120
+                    },
+                    {
+                        "name": "AIworx-Labs/chocolate",
+                        "stars": 119
+                    },
+                    {
+                        "name": "jemisjoky/TorchMPS",
+                        "stars": 118
+                    },
+                    {
+                        "name": "satellogic/orbit-predictor",
+                        "stars": 118
+                    },
+                    {
+                        "name": "uber/bayesmark",
+                        "stars": 117
+                    },
+                    {
+                        "name": "bolgebrygg/Force-2020-Machine-Learning-competition",
+                        "stars": 113
+                    },
+                    {
+                        "name": "nielstron/quantulum3",
+                        "stars": 112
+                    },
+                    {
+                        "name": "pckroon/pysmiles",
+                        "stars": 112
+                    },
+                    {
+                        "name": "Kharacternyk/barva",
+                        "stars": 112
+                    },
+                    {
+                        "name": "ptrus/suffix-trees",
+                        "stars": 112
+                    },
+                    {
+                        "name": "ocadotechnology/aimmo",
+                        "stars": 110
+                    },
+                    {
+                        "name": "DRMacIver/minithesis",
+                        "stars": 104
+                    },
+                    {
+                        "name": "RAIVNLab/supsup",
+                        "stars": 104
+                    },
+                    {
+                        "name": "pviafore/RobustPython",
+                        "stars": 103
+                    },
+                    {
+                        "name": "glondu/belenios",
+                        "stars": 103
+                    },
+                    {
+                        "name": "gforcada/flake8-builtins",
+                        "stars": 103
+                    },
+                    {
+                        "name": "nanograv/PINT",
+                        "stars": 103
+                    },
+                    {
+                        "name": "OasisLMF/OasisLMF",
+                        "stars": 103
+                    },
+                    {
+                        "name": "Badger-Finance/badger-system",
+                        "stars": 102
+                    },
+                    {
+                        "name": "noisebridge/PythonClass",
+                        "stars": 102
+                    },
+                    {
+                        "name": "OpShin/opshin",
+                        "stars": 101
+                    },
+                    {
+                        "name": "PacktPublishing/Clean-Code-in-Python-Second-Edition",
+                        "stars": 101
+                    },
+                    {
+                        "name": "luoliyan/chinese-support-redux",
+                        "stars": 101
+                    }
+                ],
+                "public_dependents_number": 367,
+                "private_dependents_number": 19235,
+                "total_dependents_number": 19602,
+                "badges": {
+                    "total": "[![](https://img.shields.io/static/v1?label=Used%20by&message=19602&color=informational&logo=slickpic)](https://github.com/HypothesisWorks/hypothesis/network/dependents?package_id=UGFja2FnZS01MjIxNzI4MQ%3D%3D)",
+                    "public": "[![](https://img.shields.io/static/v1?label=Used%20by%20(public)&message=367&color=informational&logo=slickpic)](https://github.com/HypothesisWorks/hypothesis/network/dependents?package_id=UGFja2FnZS01MjIxNzI4MQ%3D%3D)",
+                    "private": "[![](https://img.shields.io/static/v1?label=Used%20by%20(private)&message=19235&color=informational&logo=slickpic)](https://github.com/HypothesisWorks/hypothesis/network/dependents?package_id=UGFja2FnZS01MjIxNzI4MQ%3D%3D)",
+                    "stars": "[![](https://img.shields.io/static/v1?label=Used%20by%20(stars)&message=0&color=informational&logo=slickpic)](https://github.com/HypothesisWorks/hypothesis/network/dependents?package_id=UGFja2FnZS01MjIxNzI4MQ%3D%3D)"
+                }
+            },
+            {
+                "id": "UGFja2FnZS0zMjE4MTMwMjcx",
+                "name": "conjecture",
+                "url": "https://github.com/HypothesisWorks/hypothesis/network/dependents?package_id=UGFja2FnZS0zMjE4MTMwMjcx",
+                "public_dependent_stars": 0,
+                "public_dependents": [],
+                "public_dependents_number": 0,
+                "private_dependents_number": 35,
+                "total_dependents_number": 35,
+                "badges": {
+                    "total": "[![](https://img.shields.io/static/v1?label=Used%20by&message=35&color=informational&logo=slickpic)](https://github.com/HypothesisWorks/hypothesis/network/dependents?package_id=UGFja2FnZS0zMjE4MTMwMjcx)",
+                    "public": "[![](https://img.shields.io/static/v1?label=Used%20by%20(public)&message=0&color=informational&logo=slickpic)](https://github.com/HypothesisWorks/hypothesis/network/dependents?package_id=UGFja2FnZS0zMjE4MTMwMjcx)",
+                    "private": "[![](https://img.shields.io/static/v1?label=Used%20by%20(private)&message=35&color=informational&logo=slickpic)](https://github.com/HypothesisWorks/hypothesis/network/dependents?package_id=UGFja2FnZS0zMjE4MTMwMjcx)",
+                    "stars": "[![](https://img.shields.io/static/v1?label=Used%20by%20(stars)&message=0&color=informational&logo=slickpic)](https://github.com/HypothesisWorks/hypothesis/network/dependents?package_id=UGFja2FnZS0zMjE4MTMwMjcx)"
+                }
+            },
+            {
+                "id": "UGFja2FnZS0yMjg3ODA2OTc3",
+                "name": "github.com/hypothesisworks/hypothesis",
+                "url": "https://github.com/HypothesisWorks/hypothesis/network/dependents?package_id=UGFja2FnZS0yMjg3ODA2OTc3",
+                "public_dependent_stars": 0,
+                "public_dependents": [],
+                "public_dependents_number": 0,
+                "private_dependents_number": 0,
+                "total_dependents_number": 0,
+                "badges": {
+                    "total": "[![](https://img.shields.io/static/v1?label=Used%20by&message=0&color=informational&logo=slickpic)](https://github.com/HypothesisWorks/hypothesis/network/dependents?package_id=UGFja2FnZS0yMjg3ODA2OTc3)",
+                    "public": "[![](https://img.shields.io/static/v1?label=Used%20by%20(public)&message=0&color=informational&logo=slickpic)](https://github.com/HypothesisWorks/hypothesis/network/dependents?package_id=UGFja2FnZS0yMjg3ODA2OTc3)",
+                    "private": "[![](https://img.shields.io/static/v1?label=Used%20by%20(private)&message=0&color=informational&logo=slickpic)](https://github.com/HypothesisWorks/hypothesis/network/dependents?package_id=UGFja2FnZS0yMjg3ODA2OTc3)",
+                    "stars": "[![](https://img.shields.io/static/v1?label=Used%20by%20(stars)&message=0&color=informational&logo=slickpic)](https://github.com/HypothesisWorks/hypothesis/network/dependents?package_id=UGFja2FnZS0yMjg3ODA2OTc3)"
+                }
+            },
+            {
+                "id": "UGFja2FnZS00ODk4MDUyNg%3D%3D",
+                "name": "hypothesis-specs",
+                "url": "https://github.com/HypothesisWorks/hypothesis/network/dependents?package_id=UGFja2FnZS00ODk4MDUyNg%3D%3D",
+                "public_dependent_stars": 0,
+                "public_dependents": [],
+                "public_dependents_number": 0,
+                "private_dependents_number": 2,
+                "total_dependents_number": 2,
+                "badges": {
+                    "total": "[![](https://img.shields.io/static/v1?label=Used%20by&message=2&color=informational&logo=slickpic)](https://github.com/HypothesisWorks/hypothesis/network/dependents?package_id=UGFja2FnZS00ODk4MDUyNg%3D%3D)",
+                    "public": "[![](https://img.shields.io/static/v1?label=Used%20by%20(public)&message=0&color=informational&logo=slickpic)](https://github.com/HypothesisWorks/hypothesis/network/dependents?package_id=UGFja2FnZS00ODk4MDUyNg%3D%3D)",
+                    "private": "[![](https://img.shields.io/static/v1?label=Used%20by%20(private)&message=2&color=informational&logo=slickpic)](https://github.com/HypothesisWorks/hypothesis/network/dependents?package_id=UGFja2FnZS00ODk4MDUyNg%3D%3D)",
+                    "stars": "[![](https://img.shields.io/static/v1?label=Used%20by%20(stars)&message=0&color=informational&logo=slickpic)](https://github.com/HypothesisWorks/hypothesis/network/dependents?package_id=UGFja2FnZS00ODk4MDUyNg%3D%3D)"
+                }
+            }
+        ]
+    ]
+}
